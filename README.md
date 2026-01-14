@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=GarvitRastogi978&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=GarvitRastogi978&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-streak-stats-eight.vercel.app/api/top-langs/?username=GarvitRastogi978&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-streak-stats-eight-theta.vercel.app/api/top-langs/?username=GarvitRastogi978&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=GarvitRastogi978&theme=merko&no-frame=false&no-bg=true&margin-w=4)
